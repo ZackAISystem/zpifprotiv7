@@ -20,7 +20,8 @@
     --color-background-card: rgba(239, 249, 255, 1);
 
     --color-cards-advantages: rgba(255, 251, 240, 1);
-    --color-advantages-subheading: rgba(0, 114, 208, 1);
+    --color-advantages-subheading: rgba(100, 100, 100, 1);
+    --color-advantages-icons: rgba(56, 167, 188, 1);
 
     --color-why-us-subheading: rgba(83, 123, 18, 1);
     --color-why-us-left: rgba(244, 253, 245, 1);
